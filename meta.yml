@@ -3,7 +3,8 @@ name: Vectores
 locale: es
 type: learning
 beta: false
+teacher_info: ''
 language: c
 id_format: "%05d"
 order: []
-private: false
+private: true
